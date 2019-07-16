@@ -1,0 +1,14 @@
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\bin\Debug\Power.exe.config
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\bin\Debug\Power.exe
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\bin\Debug\Power.pdb
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.Form1.resources
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.Properties.Resources.resources
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.csproj.GenerateResource.cache
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.csproj.CoreCompileInputs.cache
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.exe
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.pdb
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\bin\Debug\Power.exe.manifest
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\bin\Debug\Power.application
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.csprojAssemblyReference.cache
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.exe.manifest
+C:\Users\Tharusha Kudagala\source\repos\Power\Power\obj\Debug\Power.application
