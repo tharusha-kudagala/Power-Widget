@@ -99,7 +99,7 @@ namespace Power
                     label1.BackColor = Color.Yellow;
                 else if (check >= 30)
                     label1.BackColor = Color.Orange;
-                else if (check >= 15)
+                else if (check >= 20)
                     label1.BackColor = Color.OrangeRed;
                 else
                     label1.BackColor = Color.Red;
@@ -118,7 +118,7 @@ namespace Power
                     label1.BackColor = Color.Yellow;
                 else if (check >= 30)
                     label1.BackColor = Color.Orange;
-                else if (check >= 15)
+                else if (check >= 20)
                     label1.BackColor = Color.OrangeRed;
                 else
                     label1.BackColor = Color.Red;
